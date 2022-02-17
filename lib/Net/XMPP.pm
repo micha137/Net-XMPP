@@ -43,7 +43,7 @@ functions to make a CGI client or command-line perl client feasible
 and easy to use.  Net::XMPP is a wrapper around the rest of the
 official Net::XMPP::xxxxxx packages.
 
-There is are example scripts in the example directory that provide you
+There are example scripts in the example directory that provide you
 with examples of very simple XMPP programs.
 
 
